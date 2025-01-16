@@ -102,7 +102,7 @@ HostSeekSpeed=0.4;
 [cleanTracks] = getHostSeeking2(cleanTracks,HostSeekSpeed);
 
 % display tracking results
-% display_data_HS
+display_data_HS
 
 
 
