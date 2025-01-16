@@ -117,7 +117,7 @@ HostSeekSpeed=0.2;%speed threshold for searching
 [cleanTracks]=getTravelVector(cleanTracks);
 
 %write video with tracking results (optional) 
-%display_data_HS
+display_data_HS
 
 
 
